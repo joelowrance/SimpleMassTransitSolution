@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.Client", "src\Simple.Client\Simple.Client.csproj", "{4D195A14-CCFE-41E7-A1F0-DB399720DEF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.Contracts", "Simple.Contracts\Simple.Contracts.csproj", "{635A807A-65DB-431B-B873-83EABC6AA2E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.Contracts", "src\Simple.Contracts\Simple.Contracts.csproj", "{635A807A-65DB-431B-B873-83EABC6AA2E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.Consumer", "Simple.Consumer\Simple.Consumer.csproj", "{3D663678-24F9-4C96-8C57-A646BEB30862}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.Consumer", "src\Simple.Consumer\Simple.Consumer.csproj", "{3D663678-24F9-4C96-8C57-A646BEB30862}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

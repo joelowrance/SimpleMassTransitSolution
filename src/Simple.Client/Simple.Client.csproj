@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Simple.Contracts\Simple.Contracts.csproj" />
+    <ProjectReference Include="..\Simple.Consumer\Simple.Consumer.csproj" />
   </ItemGroup>
 
 </Project>
